@@ -44,4 +44,10 @@ rm
 
 *	git log --oneline
 		- condensed version of git log
-**
+*
+git config --global core.editor vim
+type i to insert
+press esc after typeing
+press : for command modified
+wq for write then quit
+enter to enter command
