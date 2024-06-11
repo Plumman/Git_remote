@@ -44,4 +44,4 @@ rm
 
 *	git log --oneline
 		- condensed version of git log
-
+*
